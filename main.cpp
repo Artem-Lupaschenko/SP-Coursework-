@@ -8,10 +8,10 @@ int main() {
     double num1 = 10.5;
     double num2 = 5.2;
 
-    int result_add = calc.Add(num1, num2);
-    int result_sub = calc.Sub(num1, num2);
-    int result_mul = calc.Mul(num1, num2);
-    int result_div = calc.Div(num1, num2);
+    double result_add = calc.Add(num1, num2);
+    double result_sub = calc.Sub(num1, num2);
+    double result_mul = calc.Mul(num1, num2);
+    double result_div = calc.Div(num1, num2);
 
     std::cout << "Addition result: " << result_add << std::endl;
     std::cout << "Subtraction result: " << result_sub << std::endl;
