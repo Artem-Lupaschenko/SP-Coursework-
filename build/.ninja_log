@@ -1,0 +1,15 @@
+# ninja log v5
+0	26	1698405848	CMakeFiles/calculator_lib.dir/calculator.cpp.o	c18aea8391a38932
+26	68	1698405848	libcalculator_lib.a	1d4efc99bd8f5d27
+0	169	1698405848	CMakeFiles/calculator_app.dir/main.cpp.o	2b6168761bda5672
+169	224	1698405848	calculator_app	f6a564173cb5472
+0	1	0	clean	a7c70eacb11a5051
+1	19	1698406065	CMakeFiles/calculator_lib.dir/calculator.cpp.o	c18aea8391a38932
+19	45	1698406065	libcalculator_lib.a	1d4efc99bd8f5d27
+1	172	1698406065	CMakeFiles/calculator_app.dir/main.cpp.o	2b6168761bda5672
+172	229	1698406065	calculator_app	f6a564173cb5472
+0	3	0	clean	a7c70eacb11a5051
+0	19	1698406548	CMakeFiles/calculator_lib.dir/calculator.cpp.o	c18aea8391a38932
+19	52	1698406548	libcalculator_lib.a	1d4efc99bd8f5d27
+1	163	1698406548	CMakeFiles/calculator_app.dir/main.cpp.o	2b6168761bda5672
+163	220	1698406548	calculator_app	f6a564173cb5472

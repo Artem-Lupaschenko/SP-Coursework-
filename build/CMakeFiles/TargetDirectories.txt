@@ -1,0 +1,4 @@
+/home/a_lupaschenko_io14/calculator/build/CMakeFiles/rebuild_cache.dir
+/home/a_lupaschenko_io14/calculator/build/CMakeFiles/edit_cache.dir
+/home/a_lupaschenko_io14/calculator/build/CMakeFiles/calculator_lib.dir
+/home/a_lupaschenko_io14/calculator/build/CMakeFiles/calculator_app.dir
